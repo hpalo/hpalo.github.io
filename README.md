@@ -1,4 +1,4 @@
-# Hi, I'm Henrik!
+# Hi, I'm Henrik.
 ## Let's make games!
 ### My projects
 <ul>
