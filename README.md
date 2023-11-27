@@ -1,6 +1,6 @@
 ### My Projects
 <ul>
-<li>A private game dev project</li>
+<li>A private game development project</li>
 </ul>
 
 ### My Interests
