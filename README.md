@@ -1,13 +1,11 @@
-# Hi, I'm Henrik.
-## Let's make games!
 ### My projects
 <ul>
-<li>This</li>
+<li>This web site, hpalo.github.io</li>
 <li>A private game dev project</li>
 </ul>
 
 ### My Interests
-At the moment, I'm interested mostly in making games.
+At the moment, I'm interested in making games.
 
 ### Get in Touch
 <ul>
