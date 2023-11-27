@@ -1,4 +1,4 @@
-### My projects
+### My Projects
 <ul>
 <li>This web site, hpalo.github.io</li>
 <li>A private game dev project</li>
