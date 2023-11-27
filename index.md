@@ -9,6 +9,7 @@ At the moment, I'm interested in making games.
 ### My Blog
 <ul>
 {% for post in site.posts %}
+reached 
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
